@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: qxy-common
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 叶威。
+Implementation-Vendor-Id: com.qxy
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/qxy/qxy-common
+Created-By: Maven Integration for Eclipse
+
